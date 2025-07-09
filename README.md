@@ -1,6 +1,6 @@
 ![build](https://github.com/linuxmint/nemo/actions/workflows/build.yml/badge.svg)
 
-Nemo
+Vulcania 
 ====
 Nemo is a free and open-source software and official file manager of the Cinnamon desktop environment. 
 It is a fork of GNOME Files (formerly named Nautilus).
@@ -8,7 +8,9 @@ It is a fork of GNOME Files (formerly named Nautilus).
 Nemo also manages the Cinnamon desktop.
 Since Cinnamon 6.0 (Mint 21.3), users can enhance their own Nemo with Spices named Actions.
 
-Forked Changes: Allows setting of icons in places-sidebar but you must allow it via gsettings.schema
+Nemo Vulcania Changes: 
+
+Allows setting of icons in places-sidebar but you must allow it via gsettings.schema
 
 The option appears in the right-click context menu. Enjoy.
 ```
