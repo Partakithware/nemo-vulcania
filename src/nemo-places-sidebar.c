@@ -1015,7 +1015,7 @@ update_places (NemoPlacesSidebar *sidebar)
     // Assuming this loop is intended for the XDG_BOOKMARKS section based on the original code.
     // If you intend to use the parsing logic for *all* bookmarks, you'd apply it to the first loop as well.
     // For now, I'm just applying the custom icon logic to the existing loop.
-    for (bookmark_index = temp_breakpoint; bookmark_index < bookmark_count; ++bookmark_index) {
+    while (bookmark_index < bookmark_count) {
         bookmark = nemo_bookmark_list_item_at (sidebar->bookmarks, bookmark_index);
 
         root = nemo_bookmark_get_location (bookmark);
