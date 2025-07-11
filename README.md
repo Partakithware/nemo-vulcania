@@ -38,6 +38,8 @@ reaching version 1.1.2 in November 2012.
 
 Developer Gwendal Le Bihan named the project "nemo" after Jules Verne's famous character Captain Nemo, who is the captain of the Nautilus.
 
+Vulcania is the secret island port of origin for the Nautilus and Captain Nemo's one land-based home. 
+
 Features
 ====
 Nemo v1.0.0 had the following features as described by the developers:
