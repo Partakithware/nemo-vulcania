@@ -18,6 +18,8 @@ sudo cp ~/Documents/nemo-master/libnemo-private/org.nemo.gschema.xml /usr/share/
 
 sudo glib-compile-schemas /usr/share/glib-2.0/schemas/
 
+If .deb installed, only use the below:
+
 gsettings set org.nemo.sidebar-panels.custom-icons use-custom-sidebar-icons true
 
 gsettings get org.nemo.sidebar-panels.custom-icons use-custom-sidebar-icons
