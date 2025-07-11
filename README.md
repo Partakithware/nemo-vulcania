@@ -1,4 +1,4 @@
-![build](https://github.com/Partakithware/nemo-vulcania/actions/workflows/build.yml/badge.svg)
+![build](https://github.com/linuxmint/nemo/actions/workflows/build.yml/badge.svg)
 
 Vulcania 
 ====
