@@ -8,6 +8,8 @@ Nemo Vulcania Changes:
 Allows setting of icons in places-sidebar but you must allow it via gsettings.schema
 
 The option appears in the right-click context menu. Enjoy.
+
+(If you wish to use .deb for installs and want to be exactly up-to-date with the repo, self build)
 ```
 sudo cp ~/Documents/nemo-master/libnemo-private/org.nemo.gschema.xml /usr/share/glib-2.0/schemas/
 
